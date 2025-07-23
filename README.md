@@ -55,5 +55,8 @@ This is a learning project to understand:
 	•	Automating web server setups
 	•	Hosting static sites in virtual machines
 
+- 🛠️ All provisioning code and configurations in this repository are licensed under the [MIT License](./LICENSE).
+- 🎨 The "Barista Café" HTML template is created by [Tooplate.com](https://www.tooplate.com) and is provided under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) (or their specified license).
+
 
    
